@@ -6,12 +6,12 @@
 ## ライフスタイルガイド
 
 * スライド: [BeProudライフスタイルガイド](https://gitpitch.com/beproud/beproud-guide?p=lifestyle)
-* Markdown: lifestyle/PITCHME.md
+* Markdown: [lifestyle/PITCHME.md](lifestyle/PITCHME.md)
 
 ## コミュニケーションガイド
 
 * スライド: [BeProudコミュニケーションガイド](https://gitpitch.com/beproud/beproud-guide?p=communication)
-* Markdown: communication/PITCHME.md
+* Markdown: [communication/PITCHME.md](communication/PITCHME.md)
 
 ## How to Contribute
 
