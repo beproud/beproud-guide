@@ -7,9 +7,14 @@
 * 説明1
 * 説明2
 
----
+---?include=communication/gereral.md
 
-### 2.タイトル
+---?include=communication/slack.md
 
-* 説明1
-* 説明2
+---?include=communication/meeting.md
+
+---?include=communication/redmine.md
+
+---?include=communication/github.md
+
+---?include=communication/cross-culture.md
