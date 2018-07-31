@@ -7,7 +7,7 @@
 * 説明1
 * 説明2
 
----?include=communication/gereral.md
+---?include=communication/general.md
 
 ---?include=communication/slack.md
 
