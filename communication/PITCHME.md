@@ -1,13 +1,8 @@
 ## BeProudコミュニケーションガイド
 
----
-
-### 1.タイトル
-
-* 説明1
-* 説明2
-
 ---?include=communication/general.md
+
+---?include=communication/text.md
 
 ---?include=communication/slack.md
 
