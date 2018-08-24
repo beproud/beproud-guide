@@ -15,7 +15,7 @@
 
 ## How to Contribute
 
-* Pull Requestください。
+* Pull Requestください
 * 対象ファイルは `PITCHME.md` です
 
 ### GitPitchについて
@@ -33,7 +33,7 @@
 * 箇条書きの説明
 * 箇条書きの説明
 
----
+--- 
 
 ## 次のスライドのタイトル
 
