@@ -15,8 +15,9 @@
 
 ## How to Contribute
 
-* Pull Requestください
-* 対象ファイルは `PITCHME.md` です
+* Pull Requestください。BPの中の人が誰かがレビューしてLGTMならmergeしてください。
+* 対象ファイルは `PITCHME.md` です。
+* [T.B.D] PRに書いてほしいこと
 
 ### GitPitchについて
 
