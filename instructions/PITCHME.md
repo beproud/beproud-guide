@@ -109,3 +109,54 @@
   * 文字数が少ない？ 
 
 * いずれかの回答が「NO」だったら修正が必要かも。
+
+---
+
+## チーム分け
+
++++
+### ターン1
+
+* @size[11px]ライフ: kyoka, shimizukawa, crohaco, checkroth
+* @size[11px]一般(R): ae35, cactusman, okadan, furi, fumi23
+* @size[11px]テキスト: ray, kameko, mtb_beta, matsu
+* @size[11px]Slack(R): altnight, marippe, kk6, wan, xiao, shiro, furuta
+* @size[11px]会議: hydden, natsu, susumuis, kashew_nuts, nao_y
+* @size[11px]Redmine: haru, james, nana, 923
+* @size[11px]GitHub: monjudoh, hirokiky, nakagami, esuji, tsutomu
+
++++
+
+### ターン2
+
+* @size[11px]ライフ: haru, kameko, susumuis, tsutomu, matsu
+* @size[11px]一般: hirokiky, ray, nakagami, nao_y
+* @size[11px]テキスト(R): altnight, cactusman, marippe, okadan, xiao, furi, shiro
+* @size[11px]Slack: monjudoh, natsu, nana, 923
+* @size[11px]会議(R): ae35, kk6, wan, fumi23, furuta
+* @size[11px]GitHub: kyoka, crohaco, james, mtb_beta
+* @size[11px]Redmine: hydden, shimizukawa, esuji, kashew_nuts, checkroth
+
++++
+
+### ターン3
+
+* @size[11px]ライフ(R): cactusman, marippe, okadan, furi, fumi23, shiro, furuta
+* @size[11px]一般: haru, esuji, kashew_nuts, james
+* @size[11px]テキスト: monjudoh, natsu, nana, 923
+* @size[11px]Slack: hydden, shimizukawa, ray, mtb_beta, tsutomu
+* @size[11px]会議: hirokiky, nakagami, crohaco, kameko, checkroth
+* @size[11px]Redmine: kyoka, susumuis, nao_y, matsu
+* @size[11px]GitHub(R): ae35, altnight, kk6, wan, xiao
+
++++
+
+### ターン4
+
+* @size[11px]ライフ: monjudoh, ray, nakagami, mtb_beta, 923
+* @size[11px]一般: kyoka, natsu, crohaco, checkroth, tsutomu
+* @size[11px]テキスト: haru, hirokiky, susumuis, kashew_nuts
+* @size[11px]Slack(R): ae35, cactusman, okadan, furi, fumi23
+* @size[11px]会議: shimizukawa, esuji, james, matsu
+* @size[11px]Redmine: altnight, marippe, kk6, wan, xiao, shiro, furuta
+* @size[11px]GitHub(R): hydden, kameko, nao_y, nana
