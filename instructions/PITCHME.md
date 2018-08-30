@@ -122,7 +122,7 @@
 ---|---
 ライフ | @size[0.8em]kyoka, shimizukawa, crohaco, checkroth
 一般(R) | ae35, cactusman, okadan, furi, fumi23
-テキスト | ray, kameko, mtb_beta, matsu
+Text | ray, kameko, mtb_beta, matsu
 Slack(R) | altnight, marippe, kk6, wan, xiao, shiro, furuta
 会議 | hydden, natsu, susumuis, kashew_nuts, nao_y
 Redmine | haru, james, nana, 923
@@ -130,37 +130,37 @@ GitHub | monjudoh, hirokiky, nakagami, esuji, tsutomu
 
 +++
 
-### ターン2
-
-* *ライフ*: haru, kameko, susumuis, tsutomu, matsu
-* *一般*: hirokiky, ray, nakagami, nao_y
-* *テキスト(R)*: altnight, cactusman, marippe, okadan, xiao, furi, shiro
-* *Slack*: monjudoh, natsu, nana, 923
-* *会議(R)*: ae35, kk6, wan, fumi23, furuta
-* *GitHub*: kyoka, crohaco, james, mtb_beta
-* *Redmine*: hydden, shimizukawa, esuji, kashew_nuts, checkroth
-
-+++
-
-### ターン3
-
-* *ライフ(R)*: cactusman, marippe, okadan, furi, fumi23, shiro, furuta
-* *一般*: haru, esuji, kashew_nuts, james
-* *テキスト*: monjudoh, natsu, nana, 923
-* *Slack*: hydden, shimizukawa, ray, mtb_beta, tsutomu
-* *会議*: hirokiky, nakagami, crohaco, kameko, checkroth
-* *Redmine*: kyoka, susumuis, nao_y, matsu
-* *GitHub(R)*: ae35, altnight, kk6, wan, xiao
+テーマ | ターン2 チーム分け
+---|---
+ライフ | haru, kameko, susumuis, tsutomu, matsu
+一般 | hirokiky, ray, nakagami, nao_y
+Text(R) | altnight, cactusman, marippe, okadan, xiao, furi, shiro
+Slack | monjudoh, natsu, nana, 923
+会議(R) | ae35, kk6, wan, fumi23, furuta
+GitHub | kyoka, crohaco, james, mtb_beta
+Redmine | hydden, shimizukawa, esuji, kashew_nuts, checkroth
 
 +++
 
-### ターン4
+テーマ | ターン3 チーム分け
+---|---
+ライフ(R) | cactusman, marippe, okadan, furi, fumi23, shiro, furuta
+一般 | haru, esuji, kashew_nuts, james
+Text | monjudoh, natsu, nana, 923
+Slack | hydden, shimizukawa, ray, mtb_beta, tsutomu
+会議 | hirokiky, nakagami, crohaco, kameko, checkroth
+Redmine | kyoka, susumuis, nao_y, matsu
+GitHub(R) | ae35, altnight, kk6, wan, xiao
 
-* *ライフ*: monjudoh, ray, nakagami, mtb_beta, 923
-* *一般*: kyoka, natsu, crohaco, checkroth, tsutomu
-* *テキスト*: haru, hirokiky, susumuis, kashew_nuts
-* *Slack(R)*: ae35, cactusman, okadan, furi, fumi23
-* *会議*: shimizukawa, esuji, james, matsu
-* *Redmine*: altnight, marippe, kk6, wan, xiao, shiro, furuta
-* *GitHub(R)*: hydden, kameko, nao_y, nana
++++
+
+テーマ | ターン4 チーム分け
+---|---
+ライフ | monjudoh, ray, nakagami, mtb_beta, 923
+一般 | kyoka, natsu, crohaco, checkroth, tsutomu
+Text | haru, hirokiky, susumuis, kashew_nuts
+Slack(R) | ae35, cactusman, okadan, furi, fumi23
+会議 | shimizukawa, esuji, james, matsu
+Redmine | altnight, marippe, kk6, wan, xiao, shiro, furuta
+GitHub(R) | hydden, kameko, nao_y, nana
 
