@@ -161,6 +161,5 @@ GitHub(R) | ae35, altnight, kk6, wan, xiao
 Text | haru, hirokiky, susumuis, kashew_nuts
 Slack(R) | ae35, cactusman, okadan, furi, fumi23
 会議 | shimizukawa, esuji, james, matsu
-Redmine | altnight, marippe, kk6, wan, xiao, shiro, furuta
-GitHub(R) | hydden, kameko, nao_y, nana
-
+Redmine(R) | altnight, marippe, kk6, wan, xiao, shiro, furuta
+GitHub | hydden, kameko, nao_y, nana
