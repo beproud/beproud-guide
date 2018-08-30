@@ -117,15 +117,16 @@
 ## チーム分け
 
 +++
-### ターン1
 
-* *ライフ*: @size[0.8em]kyoka, shimizukawa, crohaco, checkroth
-* *一般(R)*: ae35, cactusman, okadan, furi, fumi23
-* *テキスト*: ray, kameko, mtb_beta, matsu
-* *Slack(R)*: altnight, marippe, kk6, wan, xiao, shiro, furuta
-* *会議*: hydden, natsu, susumuis, kashew_nuts, nao_y
-* *Redmine*: haru, james, nana, 923
-* *GitHub*: monjudoh, hirokiky, nakagami, esuji, tsutomu
+テーマ | ターン1 チーム分け
+---|---
+ライフ | @size[0.8em]kyoka, shimizukawa, crohaco, checkroth
+一般(R) | ae35, cactusman, okadan, furi, fumi23
+テキスト | ray, kameko, mtb_beta, matsu
+Slack(R) | altnight, marippe, kk6, wan, xiao, shiro, furuta
+会議 | hydden, natsu, susumuis, kashew_nuts, nao_y
+Redmine | haru, james, nana, 923
+GitHub | monjudoh, hirokiky, nakagami, esuji, tsutomu
 
 +++
 
