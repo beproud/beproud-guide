@@ -7,14 +7,8 @@ BeProudガイド
 =============
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :maxdepth: 2
+   :caption: 目次:
 
    lifestyle/index
-   communication/PITCHME
-   communication/general
-   communication/text
-   communication/slack
-   communication/meeting
-   communication/redmine
-   communication/github
+   communication/index

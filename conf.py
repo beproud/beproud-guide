@@ -77,8 +77,18 @@ revealjs_script_conf = """
         transition: "none",
     }
 """
+revealjs_script_plugins = [
+    {
+        "name": "RevealNotes",
+        "src": "revealjs4/plugin/notes/notes.js",
+    },
+    {
+        "name": "RevealHighlight",
+        "src": "revealjs4/plugin/highlight/highlight.js",
+    },
+]
 revealjs_static_path = html_static_path
 revealjs_css_files = [
-    "revealjs4/plugin/highlight/zenburn.css",
+    "revealjs4/plugin/highlight",
     'slides.css',
 ]
