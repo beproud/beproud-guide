@@ -10,7 +10,7 @@ BeProudガイド
    :maxdepth: 1
    :caption: Contents:
 
-   lifestyle/PITCHME
+   lifestyle/index
    communication/PITCHME
    communication/general
    communication/text
