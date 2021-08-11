@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'beproud guide'
+project = 'BeProudガイド'
 copyright = '2021, BeProud members'
 author = 'BeProud members'
 

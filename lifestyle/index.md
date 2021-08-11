@@ -1,5 +1,18 @@
 # BeProudライフスタイルガイド
 
+```{revealjs-break}
+---
+notitle:
+---
+```
+
+```{contents}
+---
+local:
+depth: 1
+---
+```
+
 ## 1. 自分
 
 ### 「プロフェッショナル」の自覚を持とう

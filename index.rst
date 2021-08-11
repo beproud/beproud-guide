@@ -6,9 +6,11 @@
 BeProudガイド
 =============
 
+.. revealjs-break::
+   :notitle:
+
 .. toctree::
    :maxdepth: 2
-   :caption: 目次:
 
    lifestyle/index
    communication/index
