@@ -5,43 +5,19 @@
 
 ## ライフスタイルガイド
 
-* スライド: [BeProudライフスタイルガイド](https://gitpitch.com/beproud/beproud-guide?p=lifestyle)
-* Markdown: [lifestyle/PITCHME.md](lifestyle/PITCHME.md)
+* スライド: BeProudライフスタイルガイド(リンクはこれから)
+* Markdown: [lifestyle/index.md](lifestyle/index.md)
 
 ## コミュニケーションガイド
 
-* スライド: [BeProudコミュニケーションガイド](https://gitpitch.com/beproud/beproud-guide?p=communication)
-* Markdown: [communication/PITCHME.md](communication/PITCHME.md)
+* スライド: BeProudコミュニケーションガイド(リンクはこれから)
+* Markdown: [communication/](communication/)
 
 ## How to Contribute
 
 * Pull Requestください。BPの中の人が誰かがレビューしてLGTMならmergeしてください。
 * 対象ファイルは `lifestyle/` `communication/` 配下の `.md` ファイルです。
 * [T.B.D] PRに書いてほしいこと
-
-### GitPitchについて
-
-* [GitPitch](https://gitpitch.com/)はMarkdownのドキュメントをスライドで表示するサービスです
-* `PITCHEME.md` というMarkdownのドキュメントを変換してスライドで表示しています
-* 基本的には以下の形式で1スライドを記述します(`---` がスライドの区切り)
-  * 詳細な書き方は「参考」にあるドキュメントなどを参照してください
-
-```markdown
----
-
-## 1スライドのタイトル
-
-* 箇条書きの説明
-* 箇条書きの説明
-
---- 
-
-## 次のスライドのタイトル
-
-* 箇条書きの説明
-  * インデントも普通にできる
-
-```
 
 ### 考え方（レビュー観点）
 
