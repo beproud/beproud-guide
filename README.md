@@ -5,12 +5,12 @@
 
 ## ライフスタイルガイド
 
-* スライド: BeProudライフスタイルガイド(リンクはこれから)
+* スライド: [BeProudライフスタイルガイド](https://beproud-guide.netlify.app/slides/lifestyle/) ([HTML版](https://beproud-guide.netlify.app/lifestyle/index.html))
 * Markdown: [lifestyle/index.md](lifestyle/index.md)
 
 ## コミュニケーションガイド
 
-* スライド: BeProudコミュニケーションガイド(リンクはこれから)
+* スライド: [BeProudコミュニケーションガイド](https://beproud-guide.netlify.app/slides/communication/) ([HTML版](https://beproud-guide.netlify.app/communication/index.html))
 * Markdown: [communication/](communication/)
 
 ## How to Contribute
