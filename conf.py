@@ -67,6 +67,14 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_context = {
+  'display_github': True,
+  'github_user': 'beproud',
+  'github_repo': 'beproud-guide',
+  'github_version': 'master/',
+}
+
+
 # -- for revealjs --------
 # https://github.com/attakei/sphinx-revealjs/blob/master/demo/revealjs4/conf.py
 revealjs_style_theme = "white"
