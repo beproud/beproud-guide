@@ -72,7 +72,7 @@ html_theme_options = {
 }
 
 # xphinxext-opengraph
-ogp_site_url = "https://github.com/beproud/beproud-guide/"
+ogp_site_url = "https://beproud-guide.pages.dev/"
 ogp_social_cards = {
     "enable": True,
     "image": "_static/logo.png",
