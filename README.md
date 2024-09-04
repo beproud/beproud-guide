@@ -39,7 +39,7 @@
 ## 環境構築
 
 ```bash
-$ python3.11 -m venv env
+$ python3.12 -m venv env
 $ . env/bin/activate
 (env) $ pip install -r requirements.txt
 (env) $ make html
