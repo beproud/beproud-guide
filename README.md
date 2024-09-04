@@ -5,12 +5,16 @@
 
 ## ライフスタイルガイド
 
-* スライド: [BeProudライフスタイルガイド](https://beproud-guide.netlify.app/slides/lifestyle/) ([HTML版](https://beproud-guide.netlify.app/lifestyle/index.html))
+* HTML版: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/lifestyle/)
+* スライド: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/slides/lifestyle/)
+* HTML版: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/lifestyle/)
+* スライド: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/slides/lifestyle/)
 * Markdown: [lifestyle/index.md](lifestyle/index.md)
 
 ## コミュニケーションガイド
 
-* スライド: [BeProudコミュニケーションガイド](https://beproud-guide.netlify.app/slides/communication/) ([HTML版](https://beproud-guide.netlify.app/communication/index.html))
+* HTML版: [BeProudコミュニケーション](https://beproud-guide.pages.dev/communication/)
+* スライド: [BeProudコミュニケーション](https://beproud-guide.pages.dev/slides/communication/)
 * Markdown: [communication/](communication/)
 
 ## How to Contribute
@@ -37,9 +41,11 @@
 ## 環境構築
 
 ```bash
-$ python3.9 -m venv env
+$ python3.11 -m venv env
 $ . env/bin/activate
 (env) $ pip install -r requirements.txt
+(env) $ make html
+(env) $ open _build/html/index.html
 (env) $ make revealjs
 (env) $ open _build/revealjs/index.html
 ```
