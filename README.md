@@ -7,14 +7,12 @@
 
 * HTML版: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/lifestyle/)
 * スライド: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/slides/lifestyle/)
-* HTML版: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/lifestyle/)
-* スライド: [BeProudライフスタイルガイド](https://beproud-guide.pages.dev/slides/lifestyle/)
 * Markdown: [lifestyle/index.md](lifestyle/index.md)
 
 ## コミュニケーションガイド
 
-* HTML版: [BeProudコミュニケーション](https://beproud-guide.pages.dev/communication/)
-* スライド: [BeProudコミュニケーション](https://beproud-guide.pages.dev/slides/communication/)
+* HTML版: [BeProudコミュニケーションガイド](https://beproud-guide.pages.dev/communication/)
+* スライド: [BeProudコミュニケーションガイド](https://beproud-guide.pages.dev/slides/communication/)
 * Markdown: [communication/](communication/)
 
 ## How to Contribute
