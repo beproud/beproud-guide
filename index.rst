@@ -6,16 +6,11 @@
 BeProudガイド
 =============
 
-.. only:: html
+スライドへのリンク
+------------------
 
-   スライドへのリンク
-   ------------------
-
-   * `BeProudライフスタイルガイド </slides/lifestyle/>`_
-   * `BeProudコミュニケーションガイド </slides/communication/>`_
-
-.. revealjs-break::
-   :notitle:
+* `BeProudライフスタイルガイド </slides/lifestyle/>`_
+* `BeProudコミュニケーションガイド </slides/communication/>`_
 
 目次(HTMLバージョン)
 --------------------

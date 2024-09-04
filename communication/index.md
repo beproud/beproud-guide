@@ -1,18 +1,5 @@
 # BeProudコミュニケーションガイド
 
-```{revealjs-break}
----
-notitle:
----
-```
-
-```{contents}
----
-local:
-depth: 1
----
-```
-
 ```{include} general.md
 ```
 

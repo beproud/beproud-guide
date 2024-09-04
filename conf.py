@@ -11,7 +11,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 # import os
-# import sys
+import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
 
@@ -29,14 +29,10 @@ author = 'BeProud members'
 # ones.
 
 extensions = [
-    'sphinx_revealjs',
-    'myst_parser',
+    "sphinx_revealjs",
+    "myst_parser",
+    "sphinxext.opengraph",
 ]
-
-source_suffix = {
-    '.rst': 'restructuredtext',
-    '.md': 'markdown',
-}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -67,38 +63,53 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_context = {
-  'display_github': True,
-  'github_user': 'beproud',
-  'github_repo': 'beproud-guide',
-  'github_version': 'master/',
+html_logo = "_static/logo.png"
+
+html_theme_options = {
+    "source_repository": "https://github.com/beproud/beproud-guide/",
+    "source_branch": "master",
+    "source_directory": "",
 }
 
+# xphinxext-opengraph
+ogp_site_url = "https://github.com/beproud/beproud-guide/"
+ogp_social_cards = {
+    "enable": True,
+    "image": "_static/logo.png",
+    "font": "Noto Sans CJK JP",
+}
+
+# macOSとWindows用のフォント設定
+if sys.platform == "darwin":
+    ogp_social_cards["font"] = "Hiragino Maru Gothic Pro"
+elif sys.platform == "win32":
+    ogp_social_cards["font"] = "MS Gothic"
 
 # -- for revealjs --------
 # https://github.com/attakei/sphinx-revealjs/blob/master/demo/revealjs4/conf.py
 revealjs_style_theme = "white"
-revealjs_script_conf = """
-    {
-        controls: true,
-        progress: false,
-        history: true,
-        center: true,
-        transition: "none",
-    }
-"""
+revealjs_script_conf = {
+    "controls": True,
+    "progress": False,
+    "history": True,
+    "center": True,
+    "transition": "none",
+}
+
 revealjs_script_plugins = [
     {
         "name": "RevealNotes",
-        "src": "revealjs4/plugin/notes/notes.js",
+        "src": "revealjs/plugin/notes/notes.js",
     },
     {
         "name": "RevealHighlight",
-        "src": "revealjs4/plugin/highlight/highlight.js",
+        "src": "revealjs/plugin/highlight/highlight.js",
     },
 ]
+
 revealjs_static_path = html_static_path
+
 revealjs_css_files = [
-    "revealjs4/plugin/highlight",
+    "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/styles/github.min.css",
     'slides.css',
 ]
