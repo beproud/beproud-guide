@@ -41,12 +41,13 @@ html_theme_options = {
 }
 
 # sphinxext-opengraph
-ogp_site_url = "https://guide.beproud.jp/"
+# ogp_site_url = "https://guide.beproud.jp/"
+ogp_site_url = "https://beproud-guide.readthedocs.io/"
 
 ogp_social_cards = {
     "enable": True,
     "image": "_static/logo.png",
-    "font": "BIZUDPGothic Regular",
+    "font": "Noto Sans CJK JP",
 }
 
 # macOSとWindows用のフォント設定
