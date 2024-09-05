@@ -10,9 +10,9 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.12"
-  commands:
-    - sphinx-build source build
-    - sphinx-build -b revealjs source build/slides
+  jobs:
+    post_build:
+      - sphinx-build -b revealjs source build/slides
 
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
