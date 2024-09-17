@@ -37,12 +37,11 @@ html_logo = "_static/logo.png"
 html_theme_options = {
     "source_repository": "https://github.com/beproud/beproud-guide/",
     "source_branch": "master",
-    "source_directory": "",
+    "source_directory": "source",
 }
 
 # sphinxext-opengraph
-# ogp_site_url = "https://guide.beproud.jp/"
-ogp_site_url = "https://beproud-guide.readthedocs.io/"
+ogp_site_url = "https://guide.beproud.jp/"
 
 ogp_social_cards = {
     "enable": True,
