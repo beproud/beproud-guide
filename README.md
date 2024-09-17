@@ -5,14 +5,14 @@
 
 ## ライフスタイルガイド
 
-* HTML版: [BeProudライフスタイルガイド](https://beproud-guide.readthedocs.io/lifestyle/)
-* スライド: [BeProudライフスタイルガイド](https://beproud-guide.readthedocs.io/slides/lifestyle/)
+* HTML版: [BeProudライフスタイルガイド](https://guide.beproud.jp/lifestyle/)
+* スライド: [BeProudライフスタイルガイド](https://guide.beproud.jp/slides/lifestyle/)
 * Markdown: [lifestyle/index.md](lifestyle/index.md)
 
 ## コミュニケーションガイド
 
-* HTML版: [BeProudコミュニケーションガイド](https://beproud-guide.readthedocs.io/communication/)
-* スライド: [BeProudコミュニケーションガイド](https://beproud-guide.readthedocs.io/slides/communication/)
+* HTML版: [BeProudコミュニケーションガイド](https://guide.beproud.jp/communication/)
+* スライド: [BeProudコミュニケーションガイド](https://guide.beproud.jp/slides/communication/)
 * Markdown: [communication/](communication/)
 
 ## How to Contribute
