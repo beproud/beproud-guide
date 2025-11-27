@@ -22,7 +22,14 @@ extensions = [
 ]
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = [
+    "*/general.md",
+    "*/text.md",
+    "*/slack.md",
+    "*/meeting.md",
+    "*/redmine.md",
+    "*/github.md",
+]
 
 language = 'ja'
 
@@ -81,6 +88,6 @@ revealjs_script_plugins = [
 revealjs_static_path = html_static_path
 
 revealjs_css_files = [
-    "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.10.0/styles/github.min.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/github.min.css",
     'slides.css',
 ]
