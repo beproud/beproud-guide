@@ -1,6 +1,5 @@
-furo==2024.8.6
-matplotlib==3.9.2
-myst-parser==4.0.0
-Sphinx==8.0.2
-sphinx-revealjs==3.0.4
-sphinxext-opengraph==0.9.1
+furo==2025.9.25
+myst-parser==4.0.1
+Sphinx==8.2.3
+sphinx-revealjs==3.2.0
+sphinxext-opengraph[social-cards]==0.13.0
